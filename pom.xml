@@ -22,7 +22,7 @@
     <spring.version>4.3.30.RELEASE</spring.version>
     <spring.security.version>4.2.20.RELEASE</spring.security.version>
     <spring.data.redis.version>1.5.2.RELEASE</spring.data.redis.version>
-    <redis.clients.version>2.6.3</redis.clients.version>
+    <redis.clients.version>5.2.0</redis.clients.version>
     <junit.version>4.12</junit.version>
     <mockito.version>1.10.19</mockito.version>
     <java.version>1.6</java.version>
